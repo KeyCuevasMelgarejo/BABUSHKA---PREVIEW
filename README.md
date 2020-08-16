@@ -2,6 +2,9 @@
 # El repositorio, junto a este archivo, es sólo muestra. 
 # Todo el código y el repositorio original estan en privado.
 ```
+# Babushka - Demo
+![](Demo.gif)
+
 # Babushka - Descripción del Proyecto
 **Aplicación que desarrollé para mi abuelita, tiene las siguientes caracteristicas:**
 - Agregar recordatorios diarios sobre las comidas que se desean preparar.
@@ -19,6 +22,3 @@ Para clonar y ejecutar el proyecto necesitas instalar primero [Git](https://git-
 # Clona este repositorio
 git clone https://github.com/KeyCuevasMelgarejo/BABUSHKA
 ```
-
-# Babushka - Demo
-![](Demo.gif)
