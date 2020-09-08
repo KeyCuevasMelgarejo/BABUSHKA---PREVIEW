@@ -3,7 +3,10 @@
 # Todo el código y el repositorio original estan en privado.
 ```
 # Babushka - Demo ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FKeyCuevasMelgarejo%2FBABUSHKA___PREVIEW)
-![](Demo.gif)
+
+<p align="center"> 
+    <img src="https://github.com/KeyCuevasMelgarejo/BABUSHKA___PREVIEW//blob/master/Demo.gif"/>
+</p>
 
 # Babushka - Descripción del Proyecto
 **Aplicación que desarrollé para mi abuelita, tiene las siguientes caracteristicas:**
